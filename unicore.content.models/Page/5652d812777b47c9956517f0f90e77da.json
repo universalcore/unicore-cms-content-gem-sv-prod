@@ -2,16 +2,16 @@
   "subtitle": "\u00a1La pubertad est\u00e1 arruinando mi apariencia!", 
   "description": "\u00a1La pubertad est\u00e1 arruinando mi apariencia!", 
   "language": "spa_CO", 
-  "title": "Mi piel esta rara", 
+  "title": "Mi piel esta loca", 
   "primary_category": "3a9ec7e44376487dae852de2e4dc9ee7", 
   "created_at": "2014-12-11T07:57:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-13T20:54:04.985609+00:00", 
+  "modified_at": "2015-03-16T17:43:31.076934+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
