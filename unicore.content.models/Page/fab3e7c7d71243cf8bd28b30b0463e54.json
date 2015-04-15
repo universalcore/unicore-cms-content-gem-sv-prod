@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Haz buenos amigos ", 
+  "language": "spa_CO", 
+  "title": "\u00bfTienes malas influencias en tu vida? ", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2014-12-11T06:07:52+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-13T15:27:23.477416+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "517559ec27064c5f8e2b27d726754df6"
+  ], 
+  "id": null, 
+  "content": "* Elige a tus amigos con cuidado y rod\u00e9ate de gente positiva que te motive aun cuando te sientas triste.\r\n* Evita tener amigos a los que no les caigas bien o se burlen de ti. \r\n* Elige  gente que quiera las mismas cosas positivas que t\u00fa. Amigos  que sue\u00f1en con seguir estudiando, con obtener buenas calificaciones y con crear oportunidades para s\u00ed mismos. Todos deben pesar en el gran futuro que les espera. \r\n* Un buen amigo es alguien a quien amas y apoyas en las buenas y en las malas. Los amigos se ayudan entre s\u00ed para evitar tomar malas decisiones que puedan  arruinar tu futuro.\r\n* S\u00e9 una buena amiga. Escucha, apoya, s\u00e9 confiable, y perdona  a cualquiera que cometa un error. \r\n\r\n**Leidy es una chica colombiana de 17 a\u00f1os y vive en Bogot\u00e1. El narcotr\u00e1fico  y los conflictos armados  hacen que ciertas ciudades y barrios sean peligrosos, en especial para las chicas j\u00f3venes como Leidy. Esta es su historia:**", 
+  "source": "8e2ab677eaf54667af590f3e5a5b4ffa", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 20, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "are-you-bad-crowd", 
+  "uuid": "fab3e7c7d71243cf8bd28b30b0463e54"
+}
