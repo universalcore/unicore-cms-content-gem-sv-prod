@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "spa_CO", 
+  "title": "\u00a1Correo no deseado, fraude inform\u00e1tico, virus! \u00bfQu\u00e9 son?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2016-02-11T10:24:16.402363+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-11T10:24:16.402564+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Querida Srta. Tech:\r\n\r\n\u00bfPuedes explicarme qu\u00e9 es un virus inform\u00e1tico? \u00bfUn virus es lo mismo que el correo no deseado? No s\u00e9 bien lo que significan, \u00a1solo que ambos son malos!\r\nAtentamente.\r\nLa Chica de Ciudad X\r\n\r\nQuerida Chica de Ciudad X:\r\n\r\nUn virus inform\u00e1tico puede ingresar en tu tel\u00e9fono o computadora al igual que una enfermedad ataca a tu cuerpo. Generalmente, el virus entra sin que lo sepas. Puede hacer que tu dispositivo haga cosas contra tu voluntad, \u00a1como enviar correos electr\u00f3nicos en tu nombre! Los virus pueden, incluso, bloquear tu dispositivo, lo que har\u00e1 que pierdas todo lo que hayas guardado, como fotos, m\u00fasica o juegos. \r\n\r\nEn general, los virus pasan de una computadora a otra (o de un tel\u00e9fono a otro) a trav\u00e9s de archivos o enlaces. As\u00ed que la mejor forma de evitar que un virus ataque tu tel\u00e9fono m\u00f3vil o computadora es no compartir archivos ni abrir enlaces de fuentes desconocidas.\r\n\r\nEn tu computadora, puedes instalar un antivirus o un software de protecci\u00f3n contra virus. A veces, los propietarios de los cibercaf\u00e9s no lo hacen, por eso sus computadoras pueden propagar virus. Los tel\u00e9fonos m\u00f3viles no tienen protecci\u00f3n contra virus, por lo general.  Por lo tanto, en tu tel\u00e9fono, trata de evitar compartir archivos a trav\u00e9s de Bluetooth y no hagas clic en enlaces sospechosos.\r\n\r\nSi recibes algo extra\u00f1o de un amigo en Facebook o por correo electr\u00f3nico, es posible que su cuenta est\u00e9 infectada. Si un enlace o publicaci\u00f3n te da sospechas, preg\u00fantale a tu amigo/a si lo envi\u00f3 antes de hacer clic. \r\n\r\nLos virus tambi\u00e9n pueden hacer que tus redes sociales o cuentas de correo electr\u00f3nico env\u00eden \u201ccorreos no deseados\u201d a todos tus amigos. Estos son mensajes inapropiados que se env\u00edan por Internet a un gran n\u00famero de personas. Podr\u00edan ser fraudes inform\u00e1ticos, enlaces de publicidad o pornograf\u00eda. Si tu computadora o tel\u00e9fono m\u00f3vil tiene un virus, este puede comenzar a enviar correos electr\u00f3nicos o mensajes no deseados, lo cual puede ser muy vergonzante.\r\n\r\nEs importante verificar que un enlace sea seguro antes de hacer clic en \u00e9l para evitar cargar un virus en tu tel\u00e9fono m\u00f3vil o computadora. Si tu tel\u00e9fono m\u00f3vil o computadora comienza a actuar extra\u00f1o, \u00a1consigue ayuda en una tienda de computadoras o tel\u00e9fonos m\u00f3viles lo antes posible!\r\n\r\n\u00a1Ten cuidado en lo que haces clic!\r\nCari\u00f1os, la Srta. Tech\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "correo-no-deseado-fraude-informatico-virus-que-son", 
+  "uuid": "153a02363dfd460d84df96474f0d8c55"
+}
