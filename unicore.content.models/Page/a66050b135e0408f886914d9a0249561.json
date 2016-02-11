@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "500 Girls shared their dreams", 
   "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
-  "created_at": "2016-02-11T09:05:23.409618+00:00", 
+  "created_at": "2016-02-11T09:05:23+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-02-11T09:05:23.409925+00:00", 
+  "modified_at": "2016-02-11T09:14:59.037892+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "500-girls-shared-their-dreams", 
   "uuid": "a66050b135e0408f886914d9a0249561"
