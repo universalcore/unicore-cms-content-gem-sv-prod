@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Averigua cu\u00e1les de tus h\u00e1bitos son buenos para ti\u2026", 
+  "language": "spa_CO", 
+  "title": "\u00bfCu\u00e1n saludable est\u00e1s?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2016-02-11T10:14:04.387128+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-11T10:14:04.387339+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "H\u00e1bitos como comer vegetales frescos y ejercitarte son buenos para tu cuerpo; h\u00e1bitos como comer alimentos dulces y fritos, fumar y beber demasiado alcohol son malos. Toma en promedio tres semanas hacerse un h\u00e1bito, as\u00ed que sal y comienza a crearte buenos h\u00e1bitos: te sentir\u00e1s m\u00e1s feliz, m\u00e1s segura, m\u00e1s fuerte y m\u00e1s saludable. \r\n\r\nRealiza nuestro cuestionario para averiguar c\u00f3mo:\r\n\r\nInstrucciones:\r\nLee las preguntas siguientes. Elige una respuesta A, B o C para cada pregunta y, luego, haz clic en la p\u00e1gina siguiente para ver cu\u00e1n saludable est\u00e1s. \r\n\r\nComer un bocadillo entre comidas no siempre es malo, \u00a1siempre y cuando obtengas el equilibrio correcto! \r\n\r\nT\u00fa\u2026\r\nA: comes bocadillos de toda clase de comida, incluso frutas.\r\nB: comes un bocadillo incluso si no tienes hambre.\r\nC: solo comes bocadillos de chocolates, tortas, dulces, comidas fritas, como papas fritas.\r\n\r\nEs realmente importante ejercitarte con alguna actividad divertida que te ponga en movimiento. \r\n\r\nT\u00fa\u2026\r\nA: sales y te mueves todos los d\u00edas, incluso si es jugar un juego divertido, correr o caminar con tus amigos.\r\nB: solo haces deportes o ejercicios cuando es parte de una clase o los organizan en la escuela.\r\nC: prefieres permanecer adentro y nunca sales mucho.  \r\n\r\n\u00bfQu\u00e9 sucede si alguien cerca tuyo est\u00e1 fumando?\r\n\r\nT\u00fa\u2026\r\nA: le dices cu\u00e1n malo es para \u00e9l/ella y para ti. \r\nB:  lo ignoras. \r\nC: le preguntas si tiene un cigarrillo para ti.\r\n\r\n\u00a1Es fin de semana, tiempo de tomarse un descanso! Las opciones de acompa\u00f1amientos para tu comida son arroz y ensalada o papas fritas.\r\n\r\nT\u00fa\u2026  \r\nA: eliges el arroz y la ensalada.\r\nB: comes los tres.\r\nC: solo comes las papas fritas.\r\n\r\nCuando tienes sed, \u00bfcu\u00e1l es tu bebida favorita?\r\n\r\nA: Un vaso grande de agua.\r\nB: A veces, agua, pero \u00a1prefiero las bebidas dulces!\r\nC: \u00a1Tomar\u00e9 lo que sea, menos agua!\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "cuan-saludable-estas", 
+  "uuid": "6641f78f9fe9498f87b2a0f29da2d466"
+}
