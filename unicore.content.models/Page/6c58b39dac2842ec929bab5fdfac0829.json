@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "009a6f5dfd8a4bf2a7bdf024979cc75b"
+  ], 
   "id": null, 
   "content": "Responde estas ocho preguntas para ver si eres muy gastadora (o muy ahorradora).\r\n \r\n1.  Recibes dinero por tu cumplea\u00f1os y\u2026\r\nA) de inmediato lo gastas en una salida divertida con amigos.\r\nB) lo llevas a tu cuenta bancaria o lo guardas de manera segura donde nadie lo encuentre. \r\n \r\n2. Te encuentras en el supermercado y te queda lo \u00faltimo de dinero ahorrado este mes cuando ves que esa remera que te gustaba tiene un precio m\u00e1s bajo. \u00bfQu\u00e9 haces?\r\nA) La compras. \u00a1Despu\u00e9s de todo, los ahorros est\u00e1n all\u00ed para ser gastados!\r\nB) Negocias con el due\u00f1o del negocio y obtienes un precio a\u00fan m\u00e1s bajo.\r\n \r\n3. Tomas decisiones sobre gastos seg\u00fan\u2026\r\nA) tus sentimientos. Cuando est\u00e1s triste, nada se siente mejor que darse un peque\u00f1o gusto.\r\nB) los planes que hiciste sobre c\u00f3mo deseas gastar el dinero a futuro.  \r\n \r\n4. Para ti, el dinero significa\u2026\r\nA) gozo y placer.\r\nB) tener un futuro estable.\r\n \r\n5. Cuando tienes muchas monedas en tu monedero\u2026\r\nA) las gastas, igual no valen mucho.\r\nB) las sumas a tus ahorros, cada peque\u00f1a parte cuenta.\r\n \r\n6. \u00bfCon frecuencia les debes dinero a tus amigos o familiares?\r\nA) Con frecuencia: pedir dinero prestado no es gran cosa.\r\nB) No frecuentemente: no me gusta deber dinero.\r\n \r\n7. \u00bfLlevas un control de c\u00f3mo gastas tu dinero anotando las compras o guardando los recibos?\r\nA) No.\r\nB) S\u00ed.\r\n \r\n8. \u00bfQu\u00e9 preferir\u00edas hacer?\r\nA) Gastar ahora, ahorrar luego.\r\nB) Ahorrar ahora, gastar luego.\r\n \r\nAhora, suma cu\u00e1ntas veces contestaste A y cu\u00e1ntas veces B. Haz clic aqu\u00ed para ver tus respuestas. \r\n", 
   "source": "73f1b14938c54e32b49862fb4e4e106d", 
