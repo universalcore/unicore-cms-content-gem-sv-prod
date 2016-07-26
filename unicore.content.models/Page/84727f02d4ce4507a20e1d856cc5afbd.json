@@ -1,0 +1,29 @@
+{
+  "subtitle": "Completa este divertido cuestionario para poner a prueba tus conocimientos ", 
+  "description": "", 
+  "language": "spa_CO", 
+  "title": "\u00bfConoces la verdad sobre las drogas y el alcohol?", 
+  "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
+  "created_at": "2016-07-26T20:52:32.809145+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-07-26T20:52:32.809361+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "###Instrucciones###\r\n\r\n - Necesitar\u00e1s una hoja de papel y un bol\u00edgrafo\r\n - Lee cada pregunta, anota el n\u00famero de la pregunta y responde si crees que es un MITO o VERDAD junto al n\u00famero\r\n - Haz clic en la p\u00e1gina siguiente para ver las respuestas\r\n - \u00a1Cuenta la cantidad de preguntas que respondiste bien! Para que sea m\u00e1s divertido, haz el cuestionario con una amiga y luego comparen sus resultados\r\n\r\n###Preguntas###\r\n\r\n 1. El alcohol no es tan malo como otras drogas\r\n 2. Dormir ayuda a tu cuerpo a deshacerse del alcohol\r\n 3. Una mujer embarazada que bebe alcohol pone en riesgo la salud de su beb\u00e9\r\n 4. Tomar caf\u00e9 no hace que una persona recupere la sobriedad\r\n 5. Beber alcohol te hace m\u00e1s inteligente\r\n 6. Las drogas te ayudan a ser m\u00e1s creativa\r\n 7. La depresi\u00f3n es un s\u00edntoma de una persona adicta a las drogas\r\n 8. Fumar marihuana afecta la forma en que caminas o corres y nubla tu visi\u00f3n\r\n\r\n###\u00bfC\u00f3mo te fue? \u00a1Haz clic aqu\u00ed para descubrirlo!###", 
+  "source": "959ea0ba170d486eacf4a52106cc030c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "conoces-la-verdad-sobre-las-drogas-y-el-alcohol", 
+  "uuid": "84727f02d4ce4507a20e1d856cc5afbd"
+}
