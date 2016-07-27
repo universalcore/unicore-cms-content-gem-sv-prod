@@ -1,31 +1,31 @@
 {
   "subtitle": "", 
-  "description": "TU AS DES DROITS \r\n", 
+  "description": "T\u00da TIENES DERECHOS", 
   "language": "spa_CO", 
-  "title": "AS-TU \u00c9T\u00c9 MALTRAIT\u00c9E ? ", 
+  "title": "\u00bfTE MALTRATAN? ", 
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2016-06-08T18:01:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-06-08T18:01:57.526895+00:00", 
+  "modified_at": "2016-07-27T17:09:25.555182+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "9ba4eecb33cd440ba46bbbf2051b5691"
   ], 
   "id": null, 
-  "content": "Dans plusieurs pays, les femmes et les filles ont les m\u00eames droits que les hommes aux yeux de la loi, et sont consid\u00e9r\u00e9es comme des \u00eatres \u00e9gaux dans tous les aspects.  Mais ceci n'est pas toujours pratiqu\u00e9 \u00e0 la maison.  \r\n\r\nTu as le droit d'\u00eatre trait\u00e9e avec respect et d'\u00eatre saine et sauve chez toi.  Si cela n'est pas le cas, alors, parles en \u00e0 quelqu'un de confiance comme un enseignant ou au chef du village.  Un probl\u00e8me partag\u00e9 est un poids enlev\u00e9.   \r\n\r\nSi une personne plus \u00e2g\u00e9e essaye de t'effrayer en te criant dessus ou en te faisant du mal, c'est de l'abus et c'est mauvais.  Trouve un adulte en qui tu as confiance pour t'aider. \r\n\r\nIl n'y a rien de plus traumatisant qu'un enfant qui perd un parent \u2013 je ne parle pas des deux.  Grandir sans parents ou un adulte qui s'occupe de toi peut signifier que tu cours plus de risque de subir des pr\u00e9judices.  Mais tu as toujours le droit \u00e0 l'\u00e9ducation et \u00e0 la sant\u00e9.  \r\n\r\n\r\n\r\nLorsque Preity \u00e9tait jeune, elle vivait chez sa tante et son oncle.  Ils l'ont fait croire qu'ils avaient le droit de la battre et de la maltraiter.  Voici son histoire \r\n", 
+  "content": "**\u00bfTE MALTRATAN? T\u00da TIENES DERECHOS**\r\n\r\n - En muchos pa\u00edses, las mujeres y las ni\u00f1as tienen los mismos derechos que los hombres, seg\u00fan la ley, y son consideradas iguales en todos los aspectos. Sin embargo, esto a veces no se cumple en el hogar. \r\n - Tienes derecho a que te traten con respeto y a estar segura en tu casa. Si no es as\u00ed, habla con alguien en quien conf\u00edes, como un profesor o un dirigente de la comunidad. Si compartes tu problema, ser\u00e1 una carga menos. \r\n - Si alguien mayor te grita o te lastima, puede ser un abuso y es algo incorrecto. Busca a un adulto en quien conf\u00edes para que te ayude.\r\n - No hay nada que lastime m\u00e1s a un ni\u00f1o que perder a su pap\u00e1 o a su mam\u00e1, ni que hablar de ambos. Al crecer sin padres o sin un adulto afectuoso que te cuide, puedes tener mayor riesgo de que te da\u00f1en. No obstante, sigues teniendo acceso a tu derecho a la educaci\u00f3n y al cuidado de la salud. \r\n\r\nCuando Preity era m\u00e1s peque\u00f1a, viv\u00eda con sus t\u00edos. Le hicieron creer que ten\u00edan derecho a golpearla y maltratarla. Esta es su historia:", 
   "source": "47260361e5c6462abdb32b5658f52aef", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 32, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "-tu-ete-maltraitee", 
+  "slug": "are-you-being-treated-badly", 
   "uuid": "09ce6530c3b748daaef93b1629abfea6"
 }
