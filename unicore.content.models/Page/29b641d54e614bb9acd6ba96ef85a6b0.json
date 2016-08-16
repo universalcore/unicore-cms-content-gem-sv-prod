@@ -1,17 +1,17 @@
 {
-  "subtitle": "Tres formas de convertir tus habilidades en dinero adicional. ", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Tres formas de convertir tus habilidades en dinero adicional. ", 
   "language": "spa_CO", 
   "title": "C\u00f3mo ganar dinero y divertirse en el intento", 
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
-  "created_at": "2016-07-26T21:00:54.155149+00:00", 
+  "created_at": "2016-07-26T21:00:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-26T21:00:54.155404+00:00", 
+  "modified_at": "2016-08-16T11:39:05.557146+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-ganar-dinero-y-divertirse-en-el-intento", 
   "uuid": "29b641d54e614bb9acd6ba96ef85a6b0"
